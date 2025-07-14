@@ -1,0 +1,24 @@
+
+= Devops CI Project Changelog
+
+////
+
+/* The authors of Devops-ci-project release this file under ${license} license terms. */
+
+== [0.0] - 22-0-
+== Unreleased
+
+=== Added
+
+* 
+
+=== Changed
+
+* 
+
+=== Removed
+
+* 
+
+////
+
